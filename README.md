@@ -119,7 +119,7 @@ Your `poker_config.lua` file should provide these settings and a matching `save(
 From MacroQuest, run the script with Lua:
 
 ```text
-/lua run init
+/lua run poker
 ```
 
 If your file is named differently, use that filename instead.
